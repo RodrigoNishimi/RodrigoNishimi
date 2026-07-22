@@ -1,4 +1,4 @@
-name: Gerar animações das contribuições
+name: Gerar animação do Pac-Man
 
 on:
   # Executa automaticamente a cada 12 horas
@@ -16,23 +16,13 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 10
     steps:
-      # Roda antes da Snake: esta action é Node e cria dist/ com o usuário do runner.
-      # A Snake roda em Docker (root) e consegue escrever num dist/ já existente.
-      - name: Gerar jogos arcade
+      - name: Gerar pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: "pacman,breakout,galaga,puzzle-bobble,bomberman,minesweeper"
-
-      - name: Gerar snake.svg
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?color_snake=#7aa2f7&color_dots=#161b22,#1f2f5e,#2d4a8a,#4c7fd6,#7aa2f7
+          games: "pacman"
 
       - name: Publicar na branch output
         uses: crazy-max/ghaction-github-pages@v4

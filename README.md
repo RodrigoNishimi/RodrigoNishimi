@@ -69,74 +69,12 @@ rodrigo.nishimi@gmail.com
 
 ---
 
-### 🎮 Minhas contribuições
-
-#### 🐍 Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/snake.svg"/>
-    <img src="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/snake.svg" alt="Snake"/>
-  </picture>
-</p>
-
-#### 👻 Pac-Man
+### 👻 Minhas contribuições
 
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/pacman-contribution-graph-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/pacman-contribution-graph.svg"/>
     <img src="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/pacman-contribution-graph.svg" alt="Pac-Man"/>
-  </picture>
-</p>
-
-#### 🧱 Breakout
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/breakout-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/breakout-contribution-graph.svg"/>
-    <img src="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/breakout-contribution-graph.svg" alt="Breakout"/>
-  </picture>
-</p>
-
-#### 🚀 Galaga
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/galaga-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/galaga-contribution-graph.svg"/>
-    <img src="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/galaga-contribution-graph.svg" alt="Galaga"/>
-  </picture>
-</p>
-
-#### 🫧 Puzzle Bobble
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/puzzle-bobble-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/puzzle-bobble-contribution-graph.svg"/>
-    <img src="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/puzzle-bobble-contribution-graph.svg" alt="Puzzle Bobble"/>
-  </picture>
-</p>
-
-#### 💣 Bomberman
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/bomberman-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/bomberman-contribution-graph.svg"/>
-    <img src="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/bomberman-contribution-graph.svg" alt="Bomberman"/>
-  </picture>
-</p>
-
-#### 💠 Minesweeper
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/minesweeper-contribution-graph-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/minesweeper-contribution-graph.svg"/>
-    <img src="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/minesweeper-contribution-graph.svg" alt="Minesweeper"/>
   </picture>
 </p>
