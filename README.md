@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Rodrigo Nishimi 👋</h1>
+<h1 align="center">Olá, eu sou o Rodrigo Nishimi</h1>
 
 <p align="center">
   <b>Ciência de Dados</b> • <b>Inteligência Artificial</b> • <b>Engenharia de Dados</b>
@@ -12,6 +12,19 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+
+<div align="center">
+<details>
+<summary><i>Sem app de e-mail instalado? Clique aqui para copiar o endereço</i></summary>
+
+Passe o mouse sobre a caixa abaixo e clique no ícone 📋 à direita — ele vira um ✅ confirmando a cópia.
+
+```
+rodrigo.nishimi@gmail.com
+```
+
+</details>
+</div>
 
 ---
 
@@ -28,11 +41,17 @@
 ### 🧰 Tecnologias & Ferramentas
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/>
+  &nbsp;&nbsp;
+  <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="SQL / PostgreSQL" title="SQL / PostgreSQL"/>
+  &nbsp;&nbsp;
+  <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>
+  &nbsp;&nbsp;
+  <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/>
+  &nbsp;&nbsp;
+  <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
+  &nbsp;&nbsp;
+  <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/>
 </p>
 
 ---
@@ -40,28 +59,84 @@
 ### 📊 Minhas estatísticas no GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodrigoNishimi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoNishimi&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RodrigoNishimi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RodrigoNishimi&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrigoNishimi&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-### 🐍 Minhas contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/snake.svg" alt="Snake animation"/>
+  <img src="https://streak-stats.demolab.com/?user=RodrigoNishimi&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RodrigoNishimi&label=Visualizações%20do%20perfil&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+### 🎮 Minhas contribuições
+
+#### 🐍 Snake
 
 <p align="center">
-  <i>"Transformando dados em decisões inteligentes."</i>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/snake.svg"/>
+    <img src="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/snake.svg" alt="Snake"/>
+  </picture>
+</p>
+
+#### 👻 Pac-Man
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/pacman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/pacman-contribution-graph.svg"/>
+    <img src="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/pacman-contribution-graph.svg" alt="Pac-Man"/>
+  </picture>
+</p>
+
+#### 🧱 Breakout
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/breakout-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/breakout-contribution-graph.svg"/>
+    <img src="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/breakout-contribution-graph.svg" alt="Breakout"/>
+  </picture>
+</p>
+
+#### 🚀 Galaga
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/galaga-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/galaga-contribution-graph.svg"/>
+    <img src="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/galaga-contribution-graph.svg" alt="Galaga"/>
+  </picture>
+</p>
+
+#### 🫧 Puzzle Bobble
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/puzzle-bobble-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/puzzle-bobble-contribution-graph.svg"/>
+    <img src="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/puzzle-bobble-contribution-graph.svg" alt="Puzzle Bobble"/>
+  </picture>
+</p>
+
+#### 💣 Bomberman
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/bomberman-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/bomberman-contribution-graph.svg"/>
+    <img src="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/bomberman-contribution-graph.svg" alt="Bomberman"/>
+  </picture>
+</p>
+
+#### 💠 Minesweeper
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/minesweeper-contribution-graph-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/minesweeper-contribution-graph.svg"/>
+    <img src="https://raw.githubusercontent.com/RodrigoNishimi/RodrigoNishimi/output/minesweeper-contribution-graph.svg" alt="Minesweeper"/>
+  </picture>
 </p>
