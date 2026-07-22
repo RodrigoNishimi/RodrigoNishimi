@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Rodrigo Nishimi</h1>
 
 <p align="center">
-  <b>Ciência de Dados</b> • <b>Inteligência Artificial</b> • <b>Engenharia de Dados</b>
+  <b>Ciência de Dados</b> • <b>Inteligência Artificial</b> • <b>Desenvolvimento de Sistemas</b>
 </p>
 
 <p align="center">
@@ -14,16 +14,11 @@
 </p>
 
 <div align="center">
-<details>
-<summary><i>Sem app de e-mail instalado? Clique aqui para copiar o endereço</i></summary>
-
-Passe o mouse sobre a caixa abaixo e clique no ícone 📋 à direita — ele vira um ✅ confirmando a cópia.
+<i>Clique em 📋 para copiar o meu e-mail</i>
 
 ```
 rodrigo.nishimi@gmail.com
 ```
-
-</details>
 </div>
 
 ---
@@ -41,17 +36,21 @@ rodrigo.nishimi@gmail.com
 ### 🧰 Tecnologias & Ferramentas
 
 <p align="left">
-  <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/>
+  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/>
   &nbsp;&nbsp;
-  <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="SQL / PostgreSQL" title="SQL / PostgreSQL"/>
+  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="SQL / PostgreSQL" title="SQL / PostgreSQL"/>
   &nbsp;&nbsp;
-  <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>
+  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>
   &nbsp;&nbsp;
-  <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/>
+  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/>
   &nbsp;&nbsp;
-  <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
+  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
   &nbsp;&nbsp;
-  <img height="52" width="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/>
+  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#"/>
+  &nbsp;&nbsp;
+  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/>
+  &nbsp;&nbsp;
+  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/>
 </p>
 
 ---
@@ -61,10 +60,6 @@ rodrigo.nishimi@gmail.com
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RodrigoNishimi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RodrigoNishimi&layout=compact&langs_count=8&theme=tokyonight" alt="Linguagens mais usadas"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RodrigoNishimi&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 ---
