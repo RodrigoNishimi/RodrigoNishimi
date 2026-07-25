@@ -5,6 +5,9 @@
 </p>
 
 <p align="center">
+  <a href="https://rodrigonishimi.github.io/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfólio"/>
+  </a>
   <a href="https://www.linkedin.com/in/rodrigo-nishimi">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
