@@ -17,7 +17,7 @@
 </p>
 
 <div align="center">
-<i>Clique em 📋 para copiar o meu e-mail</i>
+<i>Clique para copiar o meu e-mail:</i>
 
 ```
 rodrigo.nishimi@gmail.com
@@ -41,6 +41,10 @@ rodrigo.nishimi@gmail.com
 <p align="left">
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" title="Python"/>
   &nbsp;&nbsp;
+  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#"/>
+  &nbsp;&nbsp;
+  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/>
+  &nbsp;&nbsp;
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="SQL / PostgreSQL" title="SQL / PostgreSQL"/>
   &nbsp;&nbsp;
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript"/>
@@ -48,10 +52,6 @@ rodrigo.nishimi@gmail.com
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" title="HTML5"/>
   &nbsp;&nbsp;
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" title="CSS3"/>
-  &nbsp;&nbsp;
-  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" title="C#"/>
-  &nbsp;&nbsp;
-  <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" title="C++"/>
   &nbsp;&nbsp;
   <img height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" title="Git"/>
 </p>
